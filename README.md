@@ -5,3 +5,6 @@ This is a exercise to get started of Github
 
 The following is something about the author:
 He is a *USTCer* majoring in EE.And he love music,especially pure music.
+
+The following is used to test Latex.
+* $F=mg$
