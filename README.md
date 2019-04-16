@@ -1,5 +1,3 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-
 # Hello-World
 This is a exercise to get started of Github
 
@@ -12,4 +10,8 @@ The following is used to test Latex grammar.
 
 * 牛顿第一定律：$F=ma$ 
 
-$$a,b,c,d$$
+* $$
+  \sum_{i=0}^{10}i^2
+  $$
+
+  
