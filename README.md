@@ -7,4 +7,5 @@ The following is something about the author:
 He is a *USTCer* majoring in EE.And he love music,especially pure music.
 
 The following is used to test Latex grammar.
-* $F=mg$
+
+* 牛顿第一定律：$F=ma$ 
