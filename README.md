@@ -10,3 +10,4 @@ He is a *USTCer* majoring in EE.And he love music,especially pure music.
 The following is used to test Latex grammar.
 
 * 牛顿第一定律：$F=ma$ 
+$$F=ma$$
