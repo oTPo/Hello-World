@@ -6,12 +6,4 @@ This is a exercise to get started of Github
 The following is something about the author:
 He is a *USTCer* majoring in EE.And he love music,especially pure music.
 
-The following is used to test Latex grammar.
-
-* 牛顿第一定律：$F=ma$ 
-
-* $$
-  \sum_{i=0}^{10}i^2
-  $$
-
-  
+I have deleted some things and add somethings.
